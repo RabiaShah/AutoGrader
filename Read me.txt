@@ -1,0 +1,9 @@
+
+University: Bahria Universiyty, Islamabad
+Department: Software Engineering
+Batch: 2015 - 2019
+Supervisor: Dr. Raja Muhammad Suleman
+Group: SE-200
+
+This final year project is a bonafide work of "SYEDA RABIA ARSHAD (01-131152-041)" and "SYYEDA IZZA NAQVI (01-131152-044)"
+completed uder the supervision of "DR. RAJA MUHAMMAD SULEMAN (Snr. Assistan Professor, SE Dept, Bahria University, Isb)"
