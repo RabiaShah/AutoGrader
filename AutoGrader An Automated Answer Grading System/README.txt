@@ -8,9 +8,6 @@ ________________________________________________________________________________
 Supervisor: 
 Dr. Raja Muhammad Suleman
 
-Group Members:
-Syeda Rabia Arshad  (01-131152-041)
-Syyeda Izza Naqvi   (01-131152-044)
 
 Requirements:
 -MongoDB Database
